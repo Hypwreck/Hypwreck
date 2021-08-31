@@ -1,0 +1,16 @@
+{
+  "name": "simple-discord-js-bot",
+  "version": "2.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Morgan Breden @bredmor",
+  "license": "MIT",
+  "dependencies": {
+    "ascii-table": "^0.0.9",
+    "discord.js": "^12.5.3",
+    "request": "^2.88.0"
+  }
+}
