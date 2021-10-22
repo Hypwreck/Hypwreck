@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Hypwreck
 - 👀 I’m interested in Bot Development
-- 🌱 I’m currently learning Node.js
-- 💞️ I’m looking to collaborate on ...
+- 🌱 I’m currently learning working on my Bot.. Name : Hyp
+- 👩‍💻 I Know JavaScript and a bit of TypeScript
 - 📫 How to reach me (You cant)
 
 <!---
