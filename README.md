@@ -1,8 +1,10 @@
 - 👋 Hi, I’m @Hypwreck
 - 👀 I’m interested in Bot Development
-- 🌱 I’m currently learning working on my Bot.. Name : Hyp
-- 👩‍💻 I Know JavaScript and a bit of TypeScript
-- 📫 How to reach me (You cant)
+- 🌱 I’m currently making opensource codes.
+- 👩‍💻 I Know JavaScript.
+- 📫 How to reach me?
+
+You can reach me Via Discord.
 
 <!---
 Hypwreck/Hypwreck is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
