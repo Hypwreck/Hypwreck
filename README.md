@@ -1,10 +1,13 @@
 - 👋 Hi, I’m @Hypwreck
-- 👀 I’m interested in Bot Development
-- 🌱 I’m currently making opensource codes.
+- 🌱 I’m currently making opensource bots.
 - 👩‍💻 I Know JavaScript.
-- 📫 How to reach me?
 
-You can reach me Via Discord.
+# Support.
+
+> [Discord Support Server](https://discord.gg/FdAPpZXpJF)
+> 
+> [Youtube Channel](https://www.youtube.com/channel/UCxLLUfZ-CXEgsJpZOe8pSPA)
+
 
 <!---
 Hypwreck/Hypwreck is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
