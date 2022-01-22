@@ -3,6 +3,7 @@
 - 👋 Hi, I’m @Hypwreck
 - 🌱 I’m currently making opensource bots.
 - 👩‍💻 I Know JavaScript.
+- 😉 Dont forget to star my repositories
 
 # Support.
 
