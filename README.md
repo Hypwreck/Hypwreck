@@ -39,14 +39,6 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=hypwreck&show_icons=true&locale=en&bg_color=0d1117&text_color=ffffff&repo=convoychat"
     alt="hypwreck" /></p>
 
-<br>
-
-# Support.
-
-> [Discord Support Server](https://discord.gg/93tZ7Vtcs8)
-> 
-> [Youtube Channel](https://www.youtube.com/channel/UCxLLUfZ-CXEgsJpZOe8pSPA)
-
 
 <!---
 Hypwreck/Hypwreck is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
