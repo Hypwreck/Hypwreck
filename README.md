@@ -15,7 +15,6 @@
 
 
 <a href="https://discord.gg/93tZ7Vtcs8"><img width="48" height="48" src="https://github.com/dheereshagrwal/colored-icons/blob/master/svg/discord.svg" alt="Discord"></a>
-
 <a href="https://open.spotify.com/user/31ymaua7ana52k2weyuceiwdx5ga?si=f499c133db5140f4&nd=1"><img height="48" width="48" src="https://github.com/dheereshagrwal/colored-icons/blob/master/svg/spotify.svg" alt="" /></a>
 
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
