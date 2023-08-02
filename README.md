@@ -12,6 +12,8 @@
 - 🌟 Hey, Visit my portfolio [HypwreckDev](https://hypwreckdev.000webhostapp.com/index.html).
 
 - 📫 [**How to reach me**](hypwreck@gmail.com).
+
+
 <a href="https://discord.gg/93tZ7Vtcs8"><img width="48" height="48" src="https://github.com/dheereshagrwal/colored-icons/blob/master/svg/discord.svg" alt="Discord"></a>
 
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
