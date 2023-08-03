@@ -30,7 +30,7 @@
 
 <h3>Statistical Data :-</h3>
 <div style="display:flex;">
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=brblacky&show_icons=true&theme=dark&bg_color=161c1c&hide_border=true&icon_color=00ff99&title_color=00ff99&border_radius=16" alt="brblacky GitHub Stats">
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=hypwreck&show_icons=true&theme=dark&bg_color=161c1c&hide_border=true&icon_color=00ff99&title_color=00ff99&border_radius=16" alt="brblacky GitHub Stats">
 <span style="display:inline-block;width:2%"></span>
 
 <br>
