@@ -13,25 +13,60 @@
 
 - 📫 [**How to reach me**](hypwreck@gmail.com).
 
+###
+<div align="center">
+  <a href="https://discord.gg/93tZ7Vtcs8" target="_blank">
+  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="130" height="30" alt="discord logo"  />
+  </a>
+  <a href="https://www.youtube.com/channel/UCxLLUfZ-CXEgsJpZOe8pSPA" target="_blank">
+ <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/youtube/default.svg" width="130" height="30" alt="youtube logo"  />
+  </a>
+  <a href="https://www.instagram.com/hypwreck/" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="130" height="30" alt="instagram logo"  />
+</a>
+</div>
 
-<a href="https://discord.gg/93tZ7Vtcs8"><img width="48" height="48" src="https://github.com/dheereshagrwal/colored-icons/blob/master/svg/discord.svg" alt="Discord"></a>
-<a href="https://open.spotify.com/user/31ymaua7ana52k2weyuceiwdx5ga?si=f499c133db5140f4&nd=1"><img height="48" width="48" src="https://github.com/dheereshagrwal/colored-icons/blob/master/svg/spotify.svg" alt="" /></a>
-<a href="https://www.youtube.com/channel/UCxLLUfZ-CXEgsJpZOe8pSPA"><img src="https://github.com/dheereshagrwal/colored-icons/blob/master/images/youtube.png" alt="youtube" height="48" width="48"></a>
-<a href="https://www.instagram.com/hypwreck/"><img src="https://github.com/dheereshagrwal/colored-icons/blob/master/svg/instagram.svg" alt="instagram" height="48" width="48"></a>
+###
 
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![Heroku](https://img.shields.io/badge/heroku-%23430098.svg?style=for-the-badge&logo=heroku&logoColor=white) 
-![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) 
-![NPM](https://img.shields.io/badge/NPM-%23000000.svg?style=for-the-badge&logo=npm&logoColor=white) 
-![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
-![Typescript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+<br>
 
-<h3>Statistical Data :-</h3>
-<div style="display:flex;">
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=hypwreck&show_icons=true&theme=dark&bg_color=161c1c&hide_border=true&icon_color=00ff99&title_color=00ff99&border_radius=16" alt="hypwreck GitHub Stats">
-<span style="display:inline-block;width:2%"></span>
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="typescript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" alt="github logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="40" alt="mongodb logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="nodejs logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" height="40" alt="npm logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="vscode logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/yarn/yarn-original.svg" height="40" alt="yarn logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/chrome/chrome-original.svg" height="40" alt="chrome logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/discordjs/discordjs-original.svg" height="40" alt="discordjs logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" height="40" alt="express logo"  />
+</div>
+
+###
+
+<div align="left">
+<img src="https://github-readme-stats.vercel.app/api?username=hypwreck&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=rose_pine&locale=en&hide_border=true&order=1" height="150" alt="stats graph"  />
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=hypwreck&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=rose_pine&hide_border=true&order=2" height="150" alt="languages graph"  />
+<br>
+<img src="https://streak-stats.demolab.com?user=hypwreck&locale=en&mode=daily&theme=rose_pine&hide_border=true&border_radius=5&order=3" height="150" alt="streak graph"  />
+</div>
+
+###
 
 
 <!---
