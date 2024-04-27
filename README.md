@@ -5,11 +5,10 @@
 <h1 align="center">Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="29px">, I'm Hypwreck.</h1>
 
 <br>
-
+I'm hypwreck , a self-taught developer. My passion for software lies with dreaming up ideas and making them come true with elegant interfaces. I take great care in the experience and code quality of the things I build.
 <p><img align="right" src="https://github.com/Adam-pw/Adam-pw/blob/main/animation_500_kxa883sd.gif" alt="adam-pw" /></p>
 
 <br>
-I'm hypwreck , a self-taught developer. My passion for software lies with dreaming up ideas and making them come true with elegant interfaces. I take great care in the experience and code quality of the things I build.
 
 - 🌱 I’m currently learning Web Development and other programming languages
 
