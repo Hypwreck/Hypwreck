@@ -12,7 +12,7 @@ I'm hypwreck , a self-taught developer. My passion for software lies with dreami
 
 - 🌱 I’m currently learning Web Development and other programming languages
 
-- 🌟 Hey, Visit my portfolio [HypwreckDev](https://hypwreckdev.000webhostapp.com/index.html).
+- 🌟 Hey, Visit my portfolio [HypwreckDev](https://hypwreckdev.site/).
 
 - 📫 [**How to reach me**](hypwreck@gmail.com).
 
